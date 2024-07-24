@@ -1,0 +1,16 @@
+{
+  "selectionColor": "#ff0000",
+  "selectionMode": "partial",
+  "enableByDefault": true,
+  "allowExport": false,
+  "includeRuntimeLayers": true,
+  "geometryTypes": [
+    "EXTENT",
+    "CIRCLE"
+  ],
+  "layerState": {
+    "19093e8942c-layer-2": {
+      "selected": true
+    }
+  }
+}
